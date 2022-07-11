@@ -1,5 +1,5 @@
 # Portfolio Website
-An Advanced Responsive Portfolio Website.
+This is a Responsive website that works well for PC and mobile.
 Here's the link to my awesome [website](solobarine.github.io)
 ## Built With
 * HTML
