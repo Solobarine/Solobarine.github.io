@@ -42,10 +42,6 @@
   height: 110vh;
 }
 
-#this-menu {
-  margin-top: -27px;
-}
-
 .link {
   text-decoration: none;
   color: brown;
@@ -305,6 +301,10 @@
     margin-top: 8px;
   }
 
+  #this-menu {
+  margin-top: -27px;
+    
+  }
   #nav-menu > li {
     padding: 10px;
     text-align: center;
