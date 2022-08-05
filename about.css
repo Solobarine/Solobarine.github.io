@@ -1,5 +1,5 @@
 .body {
-  background: #ebe5c9;
+  background: #fff;
 }
 
 #ham-menu {
@@ -249,7 +249,7 @@
     display: grid;
     grid-template-columns: 40px 40px 200px;
     grid-template-rows: 20px;
-    margin-left: 65%;
+    margin-left: 67%;
   }
 
   #facebook {
@@ -297,17 +297,17 @@
 
   #nav-menu {
     color: #fff;
-    margin-left: 63%;
+    margin-left: 70%;
     list-style: none;
     display: flex;
     flex-direction: row;
-    width: auto;
     margin-bottom: 10px;
     margin-top: 1px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 10px;
+    font-size: 13px;
     font-weight: 400;
     line-height: 14px;
+    min-width: 700px;
   }
 
   #nav-menu > li {
@@ -366,8 +366,9 @@
 
   #finals {
     display: grid;
-    grid-template-columns: 300px 300px;
+    grid-template-columns: auto auto;
     padding: 5%;
+    justify-content: space-around;
   }
 
   .div-1 {
@@ -391,6 +392,18 @@
   .div-2 {
     grid-area: 1/2/span 1/span 1;
     position: relative;
+  }
+
+  #first {
+    width: 110%;
+    height: 110%;
+  }
+
+  #second {
+    width: 110%;
+    height: 110%;
+    margin-bottom: 0;
+    padding-bottom: 0;
   }
 
   #sponsors {
