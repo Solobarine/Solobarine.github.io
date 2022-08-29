@@ -1,22 +1,11 @@
-# To-Do List Project
-This is a simple to-do List Project.
-Feel Free to Check it out
+# Portfolio Website
+An Advanced Responsive Portfolio Website.
+Here's the link to my awesome [website](http://Solobarine.github.io)
 ## Built With
-* JavaScript
 * HTML
 * CSS
 * Git and Github
-## Getting Started
-### To get a local copy up and running follow these simple example steps:
 
-* Click the Code button in the top right corner
-* Download ZIP
-* Unzip the file: to-do-list.zip
-* Open index.html with your web browser
-* (Optional) You should have Node.js for work on the application running properly.
-* To get a local copy up and running follow these simple example steps.
-## Issues
-If you encounter any problem while using the code, feel free to raise an issue and it will be resolved as soon as possible
 ## Author
 * Name: Akpuru Solomon Barine             
 * Github: [@Solobarine](https://github.com/
@@ -30,5 +19,3 @@ Solobarine)
 ### Show your Support
 * Give a ⭐️ if you liked my Portfolio
 * Give a ⭐️ if you liked my Website
-
-
